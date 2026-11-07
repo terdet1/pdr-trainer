@@ -1,0 +1,506 @@
+{
+ "ok": true,
+ "counts": {
+  "sourceQuestions": 2332,
+  "answerKeyEntries": 2332,
+  "valid": 2332,
+  "invalid": 0,
+  "duplicateCodes": 0,
+  "contentDuplicateGroups": 61,
+  "questionsInDuplicateGroups": 122,
+  "withImages": 1166,
+  "withoutImages": 1166,
+  "uncertainAnswers": 3,
+  "sections": 65
+ },
+ "integrity": [],
+ "issues": [
+  {
+   "severity": "warning",
+   "code": "ANSWER_UNCERTAIN",
+   "question": "53.37",
+   "message": "answer cell is barely legible in the scan; read as 3"
+  },
+  {
+   "severity": "warning",
+   "code": "ANSWER_UNCERTAIN",
+   "question": "53.39",
+   "message": "answer cell is barely legible in the scan; read as 4"
+  },
+  {
+   "severity": "warning",
+   "code": "ANSWER_UNCERTAIN",
+   "question": "62.6",
+   "message": "answer cell is barely legible in the scan; read as 4"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "9.20, 44.9",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "9.28, 44.12",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "9.35, 44.11",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "13.11, 44.7",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "15.77, 42.5",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "18.12, 43.30",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "30.13, 56.21",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "31.5, 45.7",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "31.6, 45.8",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "31.13, 45.9",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "35.34, 35.146",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "37.19, 37.34",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "40.31, 42.8",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.51, 52.42",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.55, 52.45",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.58, 52.28",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.62, 53.27",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.63, 52.20",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.66, 52.23",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.69, 52.46",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.84, 52.50",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "48.85, 52.49",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.3, 53.21",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.4, 53.13",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.5, 53.12",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.6, 53.11",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.12, 53.7",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.13, 53.8",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.14, 53.20",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.15, 53.19",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.27, 53.17",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.28, 53.9",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.29, 53.10",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.30, 53.26",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.31, 53.28",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.33, 53.29",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.35, 53.31",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.38, 53.32",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.39, 53.33",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.41, 53.25",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.43, 53.35",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.44, 53.23",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.45, 53.24",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.46, 53.36",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.47, 53.37",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.48, 53.38",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.49, 53.39",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.51, 53.41",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.52, 53.42",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.53, 53.43",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "49.54, 53.44",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "50.2, 54.35",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "50.4, 54.22",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "50.5, 54.21",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "51.10, 55.26",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "51.23, 55.25",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "51.36, 55.23",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "51.37, 55.22",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "52.32, 53.14",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "56.13, 59.13",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "DUPLICATE_CONTENT",
+   "question": "56.15, 59.14",
+   "message": "identical question in several sections (kept, linked as duplicates)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "1.29",
+   "message": "regular text inside question body: \"вулиці та/або дороги, яка позначена дорожнім знаком 5.88 та відповідною\" (page 6)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "2.12",
+   "message": "question text not bold in source (detected by numbering) (page 19) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "3.16",
+   "message": "regular text inside question body: \"час виконання роботи?\" (page 30)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "16.1.34",
+   "message": "regular text inside question body: \"1. Дозволено.\" (page 183)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "16.1.34",
+   "message": "regular text inside question body: \"2. Заборонено.».\" (page 183)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "16.1.34",
+   "message": "options without N) numbering, numbered by order (page 183) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "16.2.27",
+   "message": "question text not bold in source (detected by numbering) (page 192) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "34.7",
+   "message": "question text not bold in source (detected by numbering) (page 353) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "35.69",
+   "message": "question text not bold in source (detected by numbering) (page 375) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "35.70",
+   "message": "question text not bold in source (detected by numbering) (page 375) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "35.83",
+   "message": "question text not bold in source (detected by numbering) (page 378) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "39.5",
+   "message": "regular text inside question body: \"пригоду (Європротоколу)?)\" (page 418)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "45.16",
+   "message": "regular text inside question body: \"Відчинені двері автомобіля.\" (page 446)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "45.16",
+   "message": "regular text inside question body: \"Блокування дверей автомобіля.\" (page 446)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "45.16",
+   "message": "regular text inside question body: \"Відчинені двері багажника.\" (page 446)"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "45.16",
+   "message": "options without N) numbering, numbered by order (page 445) — handled"
+  },
+  {
+   "severity": "info",
+   "code": "SOURCE_FORMATTING",
+   "question": "49.50",
+   "message": "regular text inside question body: \"масла за SAE?)\" (page 482)"
+  }
+ ],
+ "generatedAt": "2026-11-07T09:23:48.147Z"
+}

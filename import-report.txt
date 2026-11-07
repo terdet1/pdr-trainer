@@ -1,0 +1,106 @@
+IMPORT REPORT
+=============
+
+Total questions (source PDF):   2332
+Answers in official table:      2332
+Imported:                       2332
+Sections (topics):              65
+Duplicates (same code):         0
+Duplicates (identical content): 61 groups / 122 questions — kept, linked
+Invalid:                        0
+Questions with images:          1166
+Questions without images:       1166
+Answers uncertain in scan:      3
+
+INTEGRITY CHECK: PASSED — source count = database count = answer table count
+
+ERRORS (0)
+
+WARNINGS (3)
+  ! [ANSWER_UNCERTAIN] 53.37 answer cell is barely legible in the scan; read as 3
+  ! [ANSWER_UNCERTAIN] 53.39 answer cell is barely legible in the scan; read as 4
+  ! [ANSWER_UNCERTAIN] 62.6 answer cell is barely legible in the scan; read as 4
+
+SOURCE FORMATTING NOTES (17) — irregular formatting in the official PDF, handled by the extractor
+  · 1.29 regular text inside question body: "вулиці та/або дороги, яка позначена дорожнім знаком 5.88 та відповідною" (page 6)
+  · 2.12 question text not bold in source (detected by numbering) (page 19) — handled
+  · 3.16 regular text inside question body: "час виконання роботи?" (page 30)
+  · 16.1.34 regular text inside question body: "1. Дозволено." (page 183)
+  · 16.1.34 regular text inside question body: "2. Заборонено.»." (page 183)
+  · 16.1.34 options without N) numbering, numbered by order (page 183) — handled
+  · 16.2.27 question text not bold in source (detected by numbering) (page 192) — handled
+  · 34.7 question text not bold in source (detected by numbering) (page 353) — handled
+  · 35.69 question text not bold in source (detected by numbering) (page 375) — handled
+  · 35.70 question text not bold in source (detected by numbering) (page 375) — handled
+  · 35.83 question text not bold in source (detected by numbering) (page 378) — handled
+  · 39.5 regular text inside question body: "пригоду (Європротоколу)?)" (page 418)
+  · 45.16 regular text inside question body: "Відчинені двері автомобіля." (page 446)
+  · 45.16 regular text inside question body: "Блокування дверей автомобіля." (page 446)
+  · 45.16 regular text inside question body: "Відчинені двері багажника." (page 446)
+  · 45.16 options without N) numbering, numbered by order (page 445) — handled
+  · 49.50 regular text inside question body: "масла за SAE?)" (page 482)
+
+DUPLICATE GROUPS (61)
+  = 9.20, 44.9
+  = 9.28, 44.12
+  = 9.35, 44.11
+  = 13.11, 44.7
+  = 15.77, 42.5
+  = 18.12, 43.30
+  = 30.13, 56.21
+  = 31.5, 45.7
+  = 31.6, 45.8
+  = 31.13, 45.9
+  = 35.34, 35.146
+  = 37.19, 37.34
+  = 40.31, 42.8
+  = 48.51, 52.42
+  = 48.55, 52.45
+  = 48.58, 52.28
+  = 48.62, 53.27
+  = 48.63, 52.20
+  = 48.66, 52.23
+  = 48.69, 52.46
+  = 48.84, 52.50
+  = 48.85, 52.49
+  = 49.3, 53.21
+  = 49.4, 53.13
+  = 49.5, 53.12
+  = 49.6, 53.11
+  = 49.12, 53.7
+  = 49.13, 53.8
+  = 49.14, 53.20
+  = 49.15, 53.19
+  = 49.27, 53.17
+  = 49.28, 53.9
+  = 49.29, 53.10
+  = 49.30, 53.26
+  = 49.31, 53.28
+  = 49.33, 53.29
+  = 49.35, 53.31
+  = 49.38, 53.32
+  = 49.39, 53.33
+  = 49.41, 53.25
+  = 49.43, 53.35
+  = 49.44, 53.23
+  = 49.45, 53.24
+  = 49.46, 53.36
+  = 49.47, 53.37
+  = 49.48, 53.38
+  = 49.49, 53.39
+  = 49.51, 53.41
+  = 49.52, 53.42
+  = 49.53, 53.43
+  = 49.54, 53.44
+  = 50.2, 54.35
+  = 50.4, 54.22
+  = 50.5, 54.21
+  = 51.10, 55.26
+  = 51.23, 55.25
+  = 51.36, 55.23
+  = 51.37, 55.22
+  = 52.32, 53.14
+  = 56.13, 59.13
+  = 56.15, 59.14
+
+RESULT: OK
